@@ -24,7 +24,7 @@
 <dl>
     <li style="margin-bottom:0.5cm;" style="color:#48a4ff">SQL PRACTICE:</li>
     <ul>
-    <li type=circle>?. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> </li>
+    <li type=circle>Final exercise, SQL for Data Science - Coursera <a href="https://github.com/lmlimasd/Final_exercise_SQL_course_2021">Link.</a> </li>
     </ul>
 </dl>
 <hl></hl>
@@ -46,7 +46,7 @@
 <dl>
     <li style="margin-bottom:0.5cm;" style="color:#48a4ff">ARTIFICIAL VISION PROJECTS:  </li>
     <ul>
-    <li type=circle>IA-kanji-detector-with-OpenCV. <a href="https://github.com/lmlimasd/-IA-kanji-detector-with-opencv">Link.</a> </li>
+    <li type=circle>IA kanji detector with OpenCV. <a href="https://github.com/lmlimasd/-IA-kanji-detector-with-opencv">Link.</a> </li>
     </ul>
 </dl>
 <hl></hl>
@@ -55,9 +55,9 @@
 <hl></hl>
     <li type= disc, style="margin-bottom:0.5cm;" style="color:#48a4ff">ELECTRONIC PROTOTYPE PROJECTS</li>
     <ul>
-    <li type=circle>Automatic-meal-dispenser-for-pets <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> 
-    <li type=circle>MSP430-CANBUS. <a href="https://github.com/lmlimasd/MSP430-CANBUS">Link.</a> 
-    <li type=circle>Autonomous-Greenhouse. <a href="https://github.com/lmlimasd/autonomous-greenhouse">Link.</a> 
+    <li type=circle>Automatic meal dispenser for pets. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> 
+    <li type=circle>MSP430 CANBUS. <a href="https://github.com/lmlimasd/MSP430-CANBUS">Link.</a> 
+    <li type=circle>Autonomous Greenhouse. <a href="https://github.com/lmlimasd/autonomous-greenhouse">Link.</a> 
     </ul>
 
 <hl></hl>
