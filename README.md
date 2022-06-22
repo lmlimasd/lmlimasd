@@ -7,59 +7,65 @@
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **lmlimasd@outlook.com**
+- 📫 How to reach me **lmlimasd@unal.edu.co**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lmlimasd" target="blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width="20" height="20"/> @lmlimasd </a>
 </p>
 
-<h3 align="left">Project repository</h3>
-<table>
-<tr>
-<td>
-
-<h4 align="left">Interpreted programming language:</h4>
-<p align="left"> 
-<!--python-->
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
-<h4 align="left">PCB & Hardware Design:</h4>
-<!-- kicad -->
-<a href="https://www.kicad.org/" target="_blank"> <img src="https://www.kicad.org/img/kicad_logo_small.png" alt="linux" width="70" height="40"/> </a> 
-<!-- space for the column width -->
-<a>&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp</a> 
-
-<h4 align="left">Data Science:</h4>
- <!--Pandas-->
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="sqlite" width="40" height="40"/> </a>   
-
-  
-</td>
-<!--Column Two -->
- 
- 
-<td>
-
-<h4 align="left">Web Design & framework :</h4>
-<!-- Django -->
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="django" width="40" height="40"/> </a>
-<!-- Latex -->
-<a href="https://es.overleaf.com/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/latex.svg" alt="django" width="40" height="40"/> </a>
-<a> &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp  &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp</a>
+<h3 align="left">PROJECT REPOSITORY</h3>
+<!-- division -->
+<hr>
+<hl></hl>
+<dl>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">SQL:</li>
+    <ul>
+    <li>?. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> </li>
+    </ul>
+</dl>
+<hl></hl>
 
 
-<h4 align="left">Machine Learning :</h4> 
-<!--Open CV-->
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+<!-- division -->
+<hr>
+<hl></hl>
+<dl>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">DATA SCIENCE:</li>
+    <ul>
+    <li>?. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> </li>
+    </ul>
+</dl>
+<hl></hl>
+<!-- division -->
+<hr>
+<hl></hl>
+<dl>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">ARTIFICIAL VISION:  </li>
+    <ul>
+    <li>IA-kanji-detector-with-OpenCV. <a href="https://github.com/lmlimasd/-IA-kanji-detector-with-opencv">Link.</a> </li>
+    </ul>
+</dl>
+<hl></hl>
+<!-- division -->
+<hr>
+<hl></hl>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">ELECTRONIC PROJECT:</li>
+    <ul>
+    <li>Automatic-meal-dispenser-for-pets <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> </li>
+    <li>MSP430-CANBUS. <a href="https://github.com/lmlimasd/MSP430-CANBUS">Link.</a> </li>
+    <li>autonomous-greenhouse. <a href="https://github.com/lmlimasd/autonomous-greenhouse">Link.</a> </li>
+    </ul>
 
-<h4 align="left">Simulation </h4>
-
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png?20170128174110" alt="matlab" width="40" height="40"/> </a> 
-  
-</td>
-</tr>
-</table>
-
-
+<hl></hl>
+<!-- division -->
+<hr>
+<hl></hl>
+<dl>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">PCB DESIGN: </li>
+    <ul>
+    <li>Automatic-meal-dispenser-for-pets. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> </li>
+    </ul>
+</dl>
+<hl></hl>
 
