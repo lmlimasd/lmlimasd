@@ -12,7 +12,7 @@
 <!-- division -->
 <dl>
     <ul>
-    <li href="https://linkedin.com/in/lmlimasd" target="blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width="20" height="20"/> @lmlimasd</a> </li>
+    <li><a href="https://linkedin.com/in/lmlimasd" target="blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  width="20" height="20"/> @lmlimasd  </a>
     </ul>
 </dl>
 
