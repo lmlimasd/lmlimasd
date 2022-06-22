@@ -62,7 +62,7 @@
 
 <hl></hl>
 <!-- division -->
-<hr>
+<!-- <hr>
 <hl></hl>
 <dl>
     <li style="margin-bottom:0.5cm;" style="color:#48a4ff">PCB DESIGN: </li>
@@ -70,5 +70,5 @@
     <li type=circle>Automatic-meal-dispenser-for-pets. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> </li>
     </ul>
 </dl>
-<hl></hl>
+<hl></hl> -->
 
