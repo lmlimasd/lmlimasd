@@ -36,8 +36,10 @@
 <dl>
     <li style="margin-bottom:0.5cm;" style="color:#48a4ff">DATA SCIENCE PROJECTS:</li>
     <ul>
-    <li type=circle>?. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> </li>
+    <li type=circle>Practical function for plotting the data distribution from Dataframe/Series &#40with Example&#41. <a href="https://github.com/lmlimasd/plot_distribution_dataframa">Link.</a> </li>
     </ul>
+   
+    
 </dl>
 <hl></hl>
 <!-- division -->
