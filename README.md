@@ -22,7 +22,7 @@
 <hr>
 <hl></hl>
 <dl>
-    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">SQL PRACTICE:</li>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff"><b>SQL PRACTICE:</b></li>
     <ul>
     <li type=circle>Final exercise, SQL for Data Science - Coursera <a href="https://github.com/lmlimasd/Final_exercise_SQL_course_2021">Link.</a> </li>
     <li type=circle>Extend exercise to SQL AdventureWorks database <a href="https://github.com/lmlimasd/exercise_SQL_AdventureWorks_db">Link.</a> </li>
@@ -35,7 +35,7 @@
 <hr>
 <hl></hl>
 <dl>
-    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">DATA SCIENCE PROJECTS:</li>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff"><b>DATA SCIENCE PROJECTS:</b></li>
     <ul>
     <li type=circle>Practical function for plotting the data distribution from Dataframe/Series &#40with Example&#41. <a href="https://github.com/lmlimasd/plot_distribution_dataframa">Link.</a> </li>
     </ul>
@@ -47,7 +47,7 @@
 <hr>
 <hl></hl>
 <dl>
-    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">ARTIFICIAL VISION PROJECTS:  </li>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff"><b>ARTIFICIAL VISION PROJECTS:  </b></li>
     <ul>
     <li type=circle>IA kanji detector with OpenCV. <a href="https://github.com/lmlimasd/-IA-kanji-detector-with-opencv">Link.</a> </li>
     </ul>
@@ -56,7 +56,7 @@
 <!-- division -->
 <hr>
 <hl></hl>
-    <li type= disc, style="margin-bottom:0.5cm;" style="color:#48a4ff">ELECTRONIC PROTOTYPE PROJECTS</li>
+    <li type= disc, style="margin-bottom:0.5cm;" style="color:#48a4ff"><b>ELECTRONIC PROTOTYPE PROJECTS</b></li>
     <ul>
     <li type=circle>Automatic meal dispenser for pets. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> 
     <li type=circle>MSP430 CANBUS. <a href="https://github.com/lmlimasd/MSP430-CANBUS">Link.</a> 
@@ -68,7 +68,7 @@
 <!-- <hr>
 <hl></hl>
 <dl>
-    <li style="margin-bottom:0.5cm;" style="color:#48a4ff">PCB DESIGN: </li>
+    <li style="margin-bottom:0.5cm;" style="color:#48a4ff"><b>PCB DESIGN: </b></li>
     <ul>
     <li type=circle>Automatic-meal-dispenser-for-pets. <a href="https://github.com/lmlimasd/Automatic-meal-dispenser-for-pets">Link.</a> </li>
     </ul>
