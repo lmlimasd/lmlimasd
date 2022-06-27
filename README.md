@@ -25,7 +25,7 @@
     <li style="margin-bottom:0.5cm;" style="color:#48a4ff"><b>SQL PRACTICE:</b></li>
     <ul>
     <li type=circle>SQL exercise - AdventureWorks database <a href="https://github.com/lmlimasd/exercise_SQL_AdventureWorks_db">Link.</a> </li>
-    <li type=circle>Final exercise - SQL for Data Science - Coursera <a href="https://github.com/lmlimasd/Final_exercise_SQL_course_2021">Link.</a> </li>
+    <li type=circle>Final Project Course - SQL for Data Science - Coursera <a href="https://github.com/lmlimasd/Final_exercise_SQL_course_2021">Link.</a> </li>
     </ul>
 </dl>
 <hl></hl>
